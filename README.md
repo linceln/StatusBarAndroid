@@ -18,4 +18,4 @@
     }
 ```
 
-![](http://upload-images.jianshu.io/upload_images/2381335-08e820859e8b3b6c.gif?imageMogr2/auto-orient/strip)
+![](http://upload-images.jianshu.io/upload_images/2381335-36c5000bec8cde81.gif?imageMogr2/auto-orient/strip)
